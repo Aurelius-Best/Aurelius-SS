@@ -38,7 +38,7 @@ Clear-Host
 
 Write-Host "";
 Write-Host "";
-Write-Host -ForegroundColor red"  █████╗ ██╗   ██╗██████╗ ███████╗██╗     ██╗██╗   ██╗███████╗    ███████╗███████╗";
+Write-Host -ForegroundColor blue"  █████╗ ██╗   ██╗██████╗ ███████╗██╗     ██╗██╗   ██╗███████╗    ███████╗███████╗";
 Write-Host -ForegroundColor red" ██╔══██╗██║   ██║██╔══██╗██╔════╝██║     ██║██║   ██║██╔════╝    ██╔════╝██╔════╝";
 Write-Host -ForegroundColor red" ███████║██║   ██║██████╔╝█████╗  ██║     ██║██║   ██║███████╗    ███████╗███████╗";
 Write-Host -ForegroundColor red" ██╔══██║██║   ██║██╔══██╗██╔══╝  ██║     ██║██║   ██║╚════██║    ╚════██║╚════██║";
